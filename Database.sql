@@ -11,9 +11,7 @@ CREATE TABLE TAIKHOAN
 	--1: đã kích họa tài khoản
 	--0: chưa kích họa
 	LoaiTK CHAR(2) NOT NULL
-    --NS: nhân sự
-    --QT: quản trị
-    --QL: quản lí
+    --NV: nhân viên của cửa hàng
     --KH: khách hàng
 );
 
